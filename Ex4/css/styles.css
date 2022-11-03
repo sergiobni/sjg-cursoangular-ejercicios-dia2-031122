@@ -6,14 +6,14 @@ h1 {
 }
 
 h2 {
-  color: aqua;
+  color: rgb(98, 155, 241);
   font-style: italic;
 }
 em {
-  color: aqua;
+  color: rgb(98, 155, 241);
 }
 p {
-  color: aqua;
+  color: rgb(98, 155, 241);
   font-weight: bold;
 }
 
