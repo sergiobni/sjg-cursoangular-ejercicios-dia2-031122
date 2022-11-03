@@ -1,0 +1,22 @@
+body {
+  background-color: #f5bc42;
+}
+h1 {
+  background-color: #f56f42;
+}
+
+h2 {
+  color: aqua;
+  font-style: italic;
+}
+em {
+  color: aqua;
+}
+p {
+  color: aqua;
+  font-weight: bold;
+}
+
+ul {
+  list-style-type: none;
+}
