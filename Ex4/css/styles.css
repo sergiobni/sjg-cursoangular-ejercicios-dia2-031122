@@ -1,0 +1,22 @@
+body {
+  background-color: #f5bc42;
+}
+h1 {
+  background-color: #f56f42;
+}
+
+h2 {
+  color: rgb(98, 155, 241);
+  font-style: italic;
+}
+em {
+  color: rgb(98, 155, 241);
+}
+p {
+  color: rgb(98, 155, 241);
+  font-weight: bold;
+}
+
+ul {
+  list-style-type: none;
+}
