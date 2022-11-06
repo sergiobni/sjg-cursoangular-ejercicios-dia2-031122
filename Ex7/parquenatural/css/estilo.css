@@ -2,35 +2,35 @@
   font-family: 'Lucida Sans Unicode';
 }
 body {
-  background-color: grey;
+  background-color: rgb(223, 223, 223);
 }
-#marco {
-  border: 3px solid grey;
+#marcofondo {
+  border: 3px solid rgb(223, 223, 223);
   background-color: white;
 }
 #titulo {
   margin: auto;
-  width: 50%;
-  padding: 10px;
+  width: auto;
+  text-align: center;
 }
 #tita {
-  color: green;
+  color: rgb(95, 143, 17);
 }
 #titb {
-  color: orange;
+  color: rgb(191, 130, 59);
 }
-#dentro {
-  margin: auto;
+#marcoprincipal {
+  margin: 20px;
   width: 90%;
   padding: 10px;
-  border: 3px solid grey;
+  border: 2px solid rgb(223, 223, 223);
 }
-#tituloh3 {
-  border: 2px solid grey;
-}
+
 h3 {
-  color: greenyellow;
+  color: #85b20a;
+  border-bottom: 1px solid #85b20a;
+  height: 24px;
 }
 h4 {
-  color: orange;
+  color: rgb(191, 130, 59);
 }
