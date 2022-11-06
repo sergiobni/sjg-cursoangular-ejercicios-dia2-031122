@@ -1,0 +1,70 @@
+* {
+  font-family: 'Lucida Sans Unicode';
+}
+body {
+  background-color: rgb(223, 223, 223);
+  width: 900px;
+  margin: 0 auto;
+}
+#marcofondo {
+  border: 10px solid rgb(223, 223, 223);
+  background-color: white;
+}
+#titulo {
+  margin: auto;
+  width: auto;
+  text-align: center;
+  color: rgb(95, 143, 17);
+}
+
+#titb {
+  color: rgb(191, 130, 59);
+}
+#menu {
+  float: left;
+  margin: 0.5em;
+}
+
+#marcoprincipal {
+  margin: 20px;
+  padding: 10px;
+  border: 2px solid rgb(223, 223, 223);
+  display: grid;
+}
+
+h3 {
+  color: #85b20a;
+  border-bottom: 1px solid #85b20a;
+  height: 24px;
+}
+h4 {
+  color: rgb(191, 130, 59);
+}
+a:link {
+  text-decoration: none;
+}
+a:visited {
+  text-decoration: none;
+}
+a:active {
+  color: black;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0.8em;
+}
+
+li {
+  border: 1px solid rgb(223, 223, 223);
+  margin-bottom: 5px;
+  text-align: center;
+  color: burlywood;
+  background-color: rgb(203, 231, 131);
+  width: 6em;
+  padding: 0.2em;
+}
+
+li:first-child {
+  background-color: rgb(229, 205, 178);
+}
